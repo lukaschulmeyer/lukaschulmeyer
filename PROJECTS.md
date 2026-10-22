@@ -62,7 +62,7 @@ BioData Benchmark Studio also preserves its API Reliability Harness, MIT-BIH ECG
 
 - `focus-group-workflow`: generalized research workflow and blank templates. Personal opportunity records excluded. This is a document workflow, not a software application.
 - `creative-story-development`: private creative-writing archive, listed separately from software.
-- `mp2-app`: existing coursework repository retained with its original scope and history.
+- `mp2-app`: existing Flask endpoint and CPU-load test prototype, retained with its original source and history.
 
 `portfolio-project-releases` holds [public release artifacts](https://github.com/lukaschulmeyer/portfolio-project-releases); this profile repository holds the catalog. They support the projects above rather than adding separate product claims.
 
